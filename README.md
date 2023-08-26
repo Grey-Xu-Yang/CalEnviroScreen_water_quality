@@ -1,4 +1,4 @@
-# EJScreen_water_quality
+# CalEnviroScreen_water_quality
 
 ## Introduction
 
